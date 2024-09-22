@@ -22,7 +22,7 @@ ollama run <model-name>
 - A vector Database
 
 - So, we're not retraining the LLM. We're just saying: Hey, before you answer, just check in there (DB) real quick and see if you have the updated information.
-![Explaination Diagram]()
+![Explaination Diagram](https://github.com/MuzzammilShah/OpenSource-PrivateGPT/blob/main/static/rag-explaination.png?raw=true)
 
 --------------------------
 --------------------------
