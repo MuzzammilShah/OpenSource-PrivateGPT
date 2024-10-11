@@ -8,7 +8,7 @@
 - Admin cmd
 
 ```
-wsl install
+wsl --install
 ```
 
 - Enter WSL 
